@@ -1,0 +1,49 @@
+{
+  "name": "Solver Sample",
+  "is_locked": false,
+  "is_favorite": true,
+  "is_pinned": true,
+  "priority": 0,
+  "type": "solver",
+  "type_version": 2,
+  "data": {
+    "lines": [
+      {
+        "id": "1",
+        "ordinal": 1,
+        "expression": "60in in cm"
+      },
+      {
+        "id": "2",
+        "ordinal": 2,
+        "expression": "5lbs in kg"
+
+      },
+      {
+        "id": "3",
+        "ordinal": 3,
+        "expression": "100 * 1.13"
+      },
+      {
+        "id": "4",
+        "ordinal": 4,
+        "expression": "5 days from now"
+      },
+      {
+        "id": "5",
+        "ordinal": 5,
+        "expression": "sin(45 deg) ^ 2"
+      } ,
+      {
+        "id": "6",
+        "ordinal": 6,
+        "expression": "5.08 cm + 2 inch"
+      }     ,
+      {
+        "id": "7",
+        "ordinal": 7,
+        "expression": "1.2 / (3.3 + 1.7)"
+      }                       
+    ]
+  }
+}

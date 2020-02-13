@@ -1,0 +1,35 @@
+{
+  "name": "Value List Sample",
+  "is_locked": false,
+  "is_favorite": true,
+  "is_pinned": true,
+  "priority": 0,
+  "type": "list",
+  "type_version": 2,
+  "data": {
+    "lines": [
+      {
+        "id": "1",
+        "ordinal": 1,
+        "is_visible": true,
+        "key": "Web Site",
+        "value": "https://www.braintapper.com"
+      },
+      {
+        "id": "2",
+        "ordinal": 2,
+        "is_visible": false,
+        "key": "Hidden",
+        "value": "I'm hidden!"
+
+      },
+      {
+        "id": "3",
+        "ordinal": 3,
+        "is_visible": true,
+        "key": "Shrug",
+        "value": "¯\\_(ツ)_/¯"
+      }
+    ]
+  }
+}

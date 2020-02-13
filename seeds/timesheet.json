@@ -1,0 +1,68 @@
+{
+  "name": "Timesheet Sample",
+  "is_locked": false,
+  "is_favorite": true,
+  "is_pinned": true,
+  "priority": 0,
+  "type": "timesheet",
+  "type_version": 2,
+  "data": {
+    "events": [
+    {
+        "id": "be5afa9b-bd8a-40bd-966b-7c857e0b6ff5",
+        "title": "Entry 1",
+        "start": "2020-02-11T14:30:00.000Z",
+        "end": "2020-02-11T22:00:00.000Z",
+        "allDay": false,
+        "editable": true,
+        "startEditable": true,
+        "durationEditable": true,
+        "overlap": false
+      },
+      {
+        "id": "47de93de-00ca-49a1-aa25-9d96bb5370a0",
+        "title": "Entry 2",
+        "start": "2020-02-12T18:30:00.000Z",
+        "end": "2020-02-12T22:00:00.000Z",
+        "allDay": false,
+        "editable": true,
+        "startEditable": true,
+        "durationEditable": true,
+        "overlap": false
+      },
+      {
+        "id": "818efe54-7c85-4db9-b09b-3294e69e920a",
+        "title": "Entry 3",
+        "start": "2020-02-13T14:30:00.000Z",
+        "end": "2020-02-13T22:00:00.000Z",
+        "allDay": false,
+        "editable": true,
+        "startEditable": true,
+        "durationEditable": true,
+        "overlap": false
+      },
+      {
+        "id": "2e3bee67-5db0-465a-ac92-873d2d2cff2d",
+        "title": "Entry 4",
+        "start": "2020-02-14T14:30:00.000Z",
+        "end": "2020-02-14T22:00:00.000Z",
+        "allDay": false,
+        "editable": true,
+        "startEditable": true,
+        "durationEditable": true,
+        "overlap": false
+      },
+      {
+        "id": "567fee1f-8975-4bbc-86cc-e96ea9995cce",
+        "title": "Entry 5",
+        "start": "2020-02-15T14:30:00.000Z",
+        "end": "2020-02-15T22:00:00.000Z",
+        "allDay": false,
+        "editable": true,
+        "startEditable": true,
+        "durationEditable": true,
+        "overlap": false
+      }
+    ]
+  }
+}

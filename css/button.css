@@ -1,0 +1,496 @@
+[bg="white"] {
+  background: #ffffff; }
+
+[bg="white!"] {
+  background: #ffffff !important; }
+
+[bg="lightest-gray"] {
+  background: #dee2e6; }
+
+[bg="lightest-gray!"] {
+  background: #dee2e6 !important; }
+
+[bg="lighter-gray"] {
+  background: #ced4da; }
+
+[bg="light-gray"] {
+  background: #adb5bd; }
+
+[bg="gray"] {
+  background: #868e96;
+  color: #ffffff; }
+
+[bg="dark-gray"] {
+  background: #495057;
+  color: #ffffff; }
+
+[bg="darker-gray"] {
+  background: #343a40; }
+
+[bg="darkest-gray"] {
+  background: #212529; }
+
+[bg="black"] {
+  background: #000000; }
+
+[bg="lightest-purple"] {
+  background: #e5dbff; }
+
+[bg="lighter-purple"] {
+  background: #d0bfff; }
+
+[bg="light-purple"] {
+  background: #b197fc; }
+
+[bg="purple"] {
+  background: #9775fa; }
+
+[bg="dark-purple"] {
+  background: #845ef7; }
+
+[bg="darker-purple"] {
+  background: #7048e8; }
+
+[bg="darkest-purple"] {
+  background: #5f3dc4; }
+
+[bg="lightest-blue"] {
+  background: #dbe4ff; }
+
+[bg="lighter-blue"] {
+  background: #bac8ff; }
+
+[bg="light-blue"] {
+  background: #91a7ff; }
+
+[bg="blue"] {
+  background: #5c7cfa; }
+
+[bg="blue!"] {
+  background: #5c7cfa !important;
+  color: #ffffff; }
+
+[bg="dark-blue"] {
+  background: #4c6ef5; }
+
+[bg="darker-blue"] {
+  background: #3b5bdb; }
+
+[bg="darkest-blue"] {
+  background: #364fc7; }
+
+[bg="lightest-green"] {
+  background: #c3fae8; }
+
+[bg="lighter-green"] {
+  background: #63e6be; }
+
+[bg="light-green"] {
+  background: #20c997; }
+
+[bg="green"] {
+  background: #12b886; }
+
+[bg="dark-green"] {
+  background: #0ca678; }
+
+[bg="darker-green"] {
+  background: #099268; }
+
+[bg="darkest-green"] {
+  background: #087f5b; }
+
+[bg="lightest-yellow"] {
+  background: #fff3bf; }
+
+[bg="lighter-yellow"] {
+  background: #ffec99; }
+
+[bg="light-yellow"] {
+  background: #ffe066; }
+
+[bg="yellow"] {
+  background: #ffd43b; }
+
+[bg="dark-yellow"] {
+  background: #fcc419; }
+
+[bg="darker-yellow"] {
+  background: #fab005; }
+
+[bg="darkest-yellow"] {
+  background: #f59f00; }
+
+[bg="lightest-orange"] {
+  background: #ffe8cc; }
+
+[bg="lighter-orange"] {
+  background: #ffc078; }
+
+[bg="light-orange"] {
+  background: #ffa94d; }
+
+[bg="orange"] {
+  background: #fd7e14; }
+
+[bg="dark-orange"] {
+  background: #f76707; }
+
+[bg="darker-orange"] {
+  background: #e8590c; }
+
+[bg="darkest-orange"] {
+  background: #d9480f; }
+
+[bg="lightest-red"] {
+  background: #ffe3e3; }
+
+[bg="lightest-red!"] {
+  background: #ffe3e3 !important; }
+
+[bg="lighter-red"] {
+  background: #ffa8a8; }
+
+[bg="lighter-red!"] {
+  background: #ffa8a8; }
+
+[bg="light-red"] {
+  background: #ff8787; }
+
+[bg="red"] {
+  background: #fa5252; }
+
+[bg="dark-red"] {
+  background: #f03e3e; }
+
+[bg="darker-red"] {
+  background: #e03131; }
+
+[bg="darkest-red"] {
+  background: #c92a2a; }
+
+[fg="white"] {
+  color: #ffffff; }
+
+[fg="white!"] {
+  color: #ffffff !important; }
+
+[fg="lightest-gray"] {
+  color: #dee2e6; }
+
+[fg="lightest-gray!"] {
+  color: #dee2e6 !important; }
+
+[fg="lighter-gray"] {
+  color: #ced4da; }
+
+[fg="light-gray"] {
+  color: #adb5bd; }
+
+[fg="gray"], [fg="neutral"] {
+  color: #868e96; }
+
+[fg="dark-gray"] {
+  color: #495057; }
+
+[fg="darker-gray"] {
+  color: #343a40; }
+
+[fg="darkest-gray"] {
+  color: #212529; }
+
+[fg="black"] {
+  color: #000000; }
+
+[fg="lightest-purple"] {
+  color: #e5dbff; }
+
+[fg="lighter-purple"] {
+  color: #d0bfff; }
+
+[fg="light-purple"] {
+  color: #b197fc; }
+
+[fg="purple"] {
+  color: #9775fa; }
+
+[fg="dark-purple"] {
+  color: #845ef7; }
+
+[fg="darker-purple"] {
+  color: #7048e8; }
+
+[fg="darkest-purple"] {
+  color: #5f3dc4; }
+
+[fg="lightest-blue"] {
+  color: #dbe4ff; }
+
+[fg="lighter-blue"] {
+  color: #bac8ff; }
+
+[fg="light-blue"] {
+  color: #91a7ff; }
+
+[fg="blue"] {
+  color: #5c7cfa; }
+
+[fg="dark-blue"] {
+  color: #4c6ef5; }
+
+[fg="darker-blue"] {
+  color: #3b5bdb; }
+
+[fg="darkest-blue"] {
+  color: #364fc7; }
+
+[fg="lightest-green"] {
+  color: #c3fae8; }
+
+[fg="lighter-green"] {
+  color: #63e6be; }
+
+[fg="light-green"] {
+  color: #20c997; }
+
+[fg="green"] {
+  color: #12b886; }
+
+[fg="dark-green"] {
+  color: #0ca678; }
+
+[fg="darker-green"] {
+  color: #099268; }
+
+[fg="darkest-green"] {
+  color: #087f5b; }
+
+[fg="lightest-yellow"] {
+  color: #fff3bf; }
+
+[fg="lighter-yellow"] {
+  color: #ffec99; }
+
+[fg="light-yellow"] {
+  color: #ffe066; }
+
+[fg="yellow"] {
+  color: #ffd43b; }
+
+[fg="dark-yellow"] {
+  color: #fcc419; }
+
+[fg="darker-yellow"] {
+  color: #fab005; }
+
+[fg="darkest-yellow"] {
+  color: #f59f00; }
+
+[fg="lightest-orange"] {
+  color: #ffe8cc; }
+
+[fg="lighter-orange"] {
+  color: #ffc078; }
+
+[fg="light-orange"] {
+  color: #ffa94d; }
+
+[fg="orange"] {
+  color: #fd7e14; }
+
+[fg="dark-orange"] {
+  color: #f76707; }
+
+[fg="darker-orange"] {
+  color: #e8590c; }
+
+[fg="darkest-orange"] {
+  color: #d9480f; }
+
+[fg="lightest-red"] {
+  color: #ffe3e3; }
+
+[fg="lightest-red!"] {
+  color: #ffe3e3 !important; }
+
+[fg="lighter-red"] {
+  color: #ffa8a8; }
+
+[fg="lighter-red!"] {
+  color: #ffa8a8; }
+
+[fg="light-red"] {
+  color: #ff8787; }
+
+[fg="red"] {
+  color: #fa5252; }
+
+[fg="dark-red"] {
+  color: #f03e3e; }
+
+[fg="darker-red"] {
+  color: #e03131; }
+
+[fg="darkest-red"] {
+  color: #c92a2a; }
+
+button {
+  border: 0px;
+  background: none; }
+  button:focus {
+    outline: none;
+    box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px inset; }
+  button[ui-icon] svg {
+    fill: #000000; }
+    button[ui-icon] svg path.match-fill {
+      fill: #000000; }
+  button[ui-icon]:hover svg {
+    fill: #5c7cfa; }
+    button[ui-icon]:hover svg path.match-fill {
+      fill: #5c7cfa; }
+  button[ui-icon="dropdown"] {
+    padding: 1px 0px; }
+  button[ui-icon="save"] svg {
+    fill: #12b886; }
+    button[ui-icon="save"] svg path.match-fill {
+      fill: #12b886; }
+  button[ui-icon="save"][disabled="disabled"] svg {
+    fill: #495057; }
+    button[ui-icon="save"][disabled="disabled"] svg path.match-fill {
+      fill: #495057; }
+  button[ui-icon="save"]:hover[disabled="disabled"] svg {
+    fill: #fa5252; }
+    button[ui-icon="save"]:hover[disabled="disabled"] svg path.match-fill {
+      fill: #fa5252; }
+  button[ui-icon="save"]:hover svg {
+    fill: #20c997; }
+    button[ui-icon="save"]:hover svg path.match-fill {
+      fill: #20c997; }
+  button[ui-icon="cancel"] svg {
+    fill: #fa5252; }
+    button[ui-icon="cancel"] svg path.match-fill {
+      fill: #fa5252; }
+  button[ui-icon="cancel"]:hover svg {
+    fill: #ff8787; }
+    button[ui-icon="cancel"]:hover svg path.match-fill {
+      fill: #ff8787; }
+  button[ui-icon="neutral"] svg {
+    fill: #495057; }
+    button[ui-icon="neutral"] svg path.match-fill {
+      fill: #495057; }
+  button[ui-icon="neutral"]:hover svg {
+    fill: #5c7cfa; }
+    button[ui-icon="neutral"]:hover svg path.match-fill {
+      fill: #5c7cfa; }
+  button[ui-icon="dark-blue"] svg {
+    fill: #4c6ef5; }
+    button[ui-icon="dark-blue"] svg path.match-fill {
+      fill: #4c6ef5; }
+  button[ui-icon="dark-blue"]:hover svg {
+    fill: #5c7cfa; }
+    button[ui-icon="dark-blue"]:hover svg path.match-fill {
+      fill: #5c7cfa; }
+  button[ui-icon="darker-blue"] svg {
+    fill: #3b5bdb; }
+    button[ui-icon="darker-blue"] svg path.match-fill {
+      fill: #3b5bdb; }
+  button[ui-icon="darker-blue"]:hover svg {
+    fill: #5c7cfa; }
+    button[ui-icon="darker-blue"]:hover svg path.match-fill {
+      fill: #5c7cfa; }
+  button[ui-icon="white"] svg {
+    fill: #ffffff; }
+    button[ui-icon="white"] svg path.match-fill {
+      fill: #ffffff; }
+  button[ui-icon="white"]:hover svg {
+    fill: #5c7cfa; }
+    button[ui-icon="white"]:hover svg path.match-fill {
+      fill: #5c7cfa; }
+  button[ui-icon="green"] svg {
+    fill: #12b886; }
+    button[ui-icon="green"] svg path.match-fill {
+      fill: #12b886; }
+  button[ui-icon="green"]:hover svg {
+    fill: #20c997; }
+    button[ui-icon="green"]:hover svg path.match-fill {
+      fill: #20c997; }
+  button[ui-icon="red"] svg {
+    fill: #fa5252; }
+    button[ui-icon="red"] svg path.match-fill {
+      fill: #fa5252; }
+  button[ui-icon="red"]:hover svg {
+    fill: #5c7cfa; }
+    button[ui-icon="red"]:hover svg path.match-fill {
+      fill: #5c7cfa; }
+
+span[ui-button], a[ui-button] {
+  display: inline-block;
+  text-decoration: none; }
+  span[ui-button]:hover, span[ui-button]:active, a[ui-button]:hover, a[ui-button]:active {
+    text-decoration: none;
+    color: #ffffff; }
+  span[ui-button][ui-icon], a[ui-button][ui-icon] {
+    background: none; }
+    span[ui-button][ui-icon]:hover svg, span[ui-button][ui-icon]:active svg, a[ui-button][ui-icon]:hover svg, a[ui-button][ui-icon]:active svg {
+      fill: #5c7cfa; }
+      span[ui-button][ui-icon]:hover svg path.match-fill, span[ui-button][ui-icon]:active svg path.match-fill, a[ui-button][ui-icon]:hover svg path.match-fill, a[ui-button][ui-icon]:active svg path.match-fill {
+        fill: #5c7cfa; }
+
+[ui-button] {
+  background: #12b886;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 700;
+  border-radius: 3px;
+  padding: 3px 16px;
+  border: none;
+  min-height: 36px;
+  line-height: 36px;
+  letter-spacing: 1px; }
+  [ui-button]:hover, [ui-button]:active {
+    background: #099268; }
+  [ui-button][ui-button="secondary"] {
+    background: #5c7cfa;
+    background: #5c7cfa; }
+    [ui-button][ui-button="secondary"]:hover, [ui-button][ui-button="secondary"]:active {
+      background: #4c6ef5; }
+    [ui-button][ui-button="secondary"]:hover, [ui-button][ui-button="secondary"]:active {
+      background: #4c6ef5; }
+  [ui-button][ui-button="cancel"], [ui-button][ui-button="close"] {
+    color: #495057;
+    background: #bac8ff; }
+    [ui-button][ui-button="cancel"]:hover, [ui-button][ui-button="cancel"]:active, [ui-button][ui-button="close"]:hover, [ui-button][ui-button="close"]:active {
+      background: #91a7ff; }
+  [ui-button][ui-button="critical"] {
+    background: #fa5252;
+    background: #fa5252; }
+    [ui-button][ui-button="critical"]:hover, [ui-button][ui-button="critical"]:active {
+      background: #e03131; }
+  [ui-button][ui-button="red"] {
+    background: #fa5252; }
+    [ui-button][ui-button="red"]:hover, [ui-button][ui-button="red"]:active {
+      background: #e03131; }
+  [ui-button][ui-button="yellow"] {
+    background: #ffd43b; }
+    [ui-button][ui-button="yellow"]:hover, [ui-button][ui-button="yellow"]:active {
+      background: #fab005; }
+  [ui-button][ui-button="green"] {
+    background: #12b886; }
+    [ui-button][ui-button="green"]:hover, [ui-button][ui-button="green"]:active {
+      background: #099268; }
+  [ui-button][mini] {
+    font-size: 14px;
+    line-height: 30px;
+    min-height: 30px;
+    padding: 3px 12px;
+    min-width: 80px; }
+  [ui-button][micro] {
+    font-size: 14px;
+    line-height: 30px;
+    min-height: 24px;
+    padding: 3px 8px;
+    min-width: 60px; }
+  [ui-button][disabled=disabled] {
+    background: #868e96; }
+    [ui-button][disabled=disabled]:hover, [ui-button][disabled=disabled]:active {
+      background: #868e96; }

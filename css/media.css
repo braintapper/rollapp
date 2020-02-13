@@ -1,0 +1,7 @@
+@media screen {
+  [ui-print-only] {
+    display: none !important; } }
+
+@media print {
+  [ui-screen-only] {
+    display: none !important; } }

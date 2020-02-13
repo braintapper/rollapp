@@ -1,0 +1,28 @@
+.ck-content, .ck-preview {
+  font-size: 14px; }
+  .ck-content h2, .ck-content h3, .ck-content h4, .ck-preview h2, .ck-preview h3, .ck-preview h4 {
+    margin: 0px !important;
+    font-weight: bold; }
+  .ck-content h2, .ck-preview h2 {
+    font-size: 24px;
+    margin-bottom: 18px; }
+  .ck-content h3, .ck-preview h3 {
+    font-size: 18px;
+    margin-bottom: 12px; }
+  .ck-content h4, .ck-preview h4 {
+    font-size: 14px;
+    margin-bottom: 10px; }
+  .ck-content p, .ck-content ul, .ck-content ol, .ck-content figure, .ck-preview p, .ck-preview ul, .ck-preview ol, .ck-preview figure {
+    margin: 0px 0px 10px 0px !important; }
+  .ck-content blockquote p:last-child, .ck-preview blockquote p:last-child {
+    margin-bottom: 0px !important; }
+
+.ck-preview:hover {
+  background: #eeeeee; }
+
+.ck-content {
+  padding-top: 24px !important;
+  padding-bottom: 24px !important; }
+
+.ck-preview {
+  min-height: 24px; }

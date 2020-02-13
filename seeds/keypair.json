@@ -3,6 +3,7 @@
   "is_locked": false,
   "is_favorite": true,
   "is_pinned": true,
+  "is_archived": true,
   "priority": 0,
   "type": "list",
   "type_version": 2,

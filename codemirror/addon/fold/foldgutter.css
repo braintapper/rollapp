@@ -4,6 +4,7 @@
   font-family: arial;
   line-height: .3;
   cursor: pointer;
+  display: none;
 }
 .CodeMirror-foldgutter {
   width: .7em;

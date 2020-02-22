@@ -1,5 +1,5 @@
 @charset "UTF-8";
-.CodeMirror {
+.CodeMirror.cm-s-hypermd-light {
   height: auto;
   /* adding some CodeMirror-not-implemented styles' default style */
   /* tooltip for addon/hover */
@@ -8,48 +8,51 @@
   /* addon/table-align */
   /* addon/fold-math */
   /* addon/fold-emoji */ }
-  .CodeMirror .hmd-fold-math, .CodeMirror pre.HyperMD-table-row .cm-hmd-table-sep {
+  .CodeMirror.cm-s-hypermd-light .CodeMirror-lines {
+    background: #ffff;
+    border: none; }
+  .CodeMirror.cm-s-hypermd-light .hmd-fold-math, .CodeMirror.cm-s-hypermd-light pre.HyperMD-table-row .cm-hmd-table-sep {
     display: inline-block;
     vertical-align: middle; }
-  .CodeMirror span.hmd-hidden-token.cm-formatting-em, .CodeMirror span.hmd-hidden-token.cm-formatting-strong, .CodeMirror span.hmd-hidden-token.cm-formatting-strikethrough, .CodeMirror span.hmd-hidden-token.cm-formatting-code, .CodeMirror span.hmd-hidden-token.cm-formatting-link {
+  .CodeMirror.cm-s-hypermd-light span.hmd-hidden-token.cm-formatting-em, .CodeMirror.cm-s-hypermd-light span.hmd-hidden-token.cm-formatting-strong, .CodeMirror.cm-s-hypermd-light span.hmd-hidden-token.cm-formatting-strikethrough, .CodeMirror.cm-s-hypermd-light span.hmd-hidden-token.cm-formatting-code, .CodeMirror.cm-s-hypermd-light span.hmd-hidden-token.cm-formatting-link {
     display: inline;
     font-size: 1px !important;
     letter-spacing: -1ch;
     font-family: monospace;
     color: transparent; }
-  .CodeMirror .cm-inline-code, .CodeMirror .cm-math {
+  .CodeMirror.cm-s-hypermd-light .cm-inline-code, .CodeMirror.cm-s-hypermd-light .cm-math {
     color: #900; }
-  .CodeMirror div.HyperMD-hover > .HyperMD-hover-content {
+  .CodeMirror.cm-s-hypermd-light div.HyperMD-hover > .HyperMD-hover-content {
     background-color: #fff;
     color: #000;
     border: 1px solid #000;
     padding: 0.5em; }
-    .CodeMirror div.HyperMD-hover > .HyperMD-hover-content p {
+    .CodeMirror.cm-s-hypermd-light div.HyperMD-hover > .HyperMD-hover-content p {
       margin: 0.2em 0; }
-  .CodeMirror .HyperMD-goback {
+  .CodeMirror.cm-s-hypermd-light .HyperMD-goback {
     width: 1px; }
-  .CodeMirror div.HyperMD-goback-button {
+  .CodeMirror.cm-s-hypermd-light div.HyperMD-goback-button {
     background-color: #ddd;
     color: #333;
     text-align: center;
     cursor: pointer; }
-  .CodeMirror .hmd-link-icon:after {
+  .CodeMirror.cm-s-hypermd-light .hmd-link-icon:after {
     content: "🔗»";
     color: #009;
     text-shadow: 0 0 2px #69F; }
-  .CodeMirror pre.HyperMD-table-row {
+  .CodeMirror.cm-s-hypermd-light pre.HyperMD-table-row {
     white-space: pre; }
-    .CodeMirror pre.HyperMD-table-row .hmd-table-column, .CodeMirror pre.HyperMD-table-row .hmd-table-column-content {
+    .CodeMirror.cm-s-hypermd-light pre.HyperMD-table-row .hmd-table-column, .CodeMirror.cm-s-hypermd-light pre.HyperMD-table-row .hmd-table-column-content {
       display: inline-block; }
-    .CodeMirror pre.HyperMD-table-row .hmd-table-column-left {
+    .CodeMirror.cm-s-hypermd-light pre.HyperMD-table-row .hmd-table-column-left {
       text-align: left; }
-    .CodeMirror pre.HyperMD-table-row .hmd-table-column-center {
+    .CodeMirror.cm-s-hypermd-light pre.HyperMD-table-row .hmd-table-column-center {
       text-align: center; }
-    .CodeMirror pre.HyperMD-table-row .hmd-table-column-right {
+    .CodeMirror.cm-s-hypermd-light pre.HyperMD-table-row .hmd-table-column-right {
       text-align: right; }
-  .CodeMirror .hmd-fold-math.hmd-fold-math.math-2 {
+  .CodeMirror.cm-s-hypermd-light .hmd-fold-math.hmd-fold-math.math-2 {
     width: 100%; }
-  .CodeMirror img.hmd-emoji {
+  .CodeMirror.cm-s-hypermd-light img.hmd-emoji {
     height: 1.2em;
     vertical-align: middle; }
 
@@ -181,7 +184,6 @@
   .cm-s-hypermd-light pre.HyperMD-header {
     line-height: 1.5 !important;
     font-family: inherit !important;
-    padding-left: 5px !important;
     margin-left: 0 !important;
     border-left: 0 !important;
     padding-bottom: 0.25em; }
